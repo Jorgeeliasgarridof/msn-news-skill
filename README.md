@@ -1,7 +1,10 @@
 # msn-news-skill
 # Welcome to the MSN News Skill, where you can access the latest news as you can.
 # Here's the code:
-const Alexa = require('ask-sdk-core');
+
+
+;
+  const Alexa = require('ask-sdk-core');
 
 const skillBuilder = Alexa.SkillBuilders.custom();
 
