@@ -41,3 +41,7 @@ exports.handler = skillBuilder
         FlashBriefingHandler
     )
     .lambda();
+    .addRequestHandlers(
+        FlashBriefingHandler
+    )
+    .lambda();
