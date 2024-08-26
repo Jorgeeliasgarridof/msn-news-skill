@@ -4,7 +4,7 @@
 
 
 ;
-  const Alexa = require('ask-sdk-core');
+    const Alexa = require('ask-sdk-core');
 
 const skillBuilder = Alexa.SkillBuilders.custom();
 
